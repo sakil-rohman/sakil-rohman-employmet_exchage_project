@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.409560be.css",
+    "main.js": "/static/js/main.55edff78.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/logo_1.png": "/static/media/logo_1.33230cfa2a15421f964a.png",
+    "static/media/Azadi-Ka-Amrit-Mahotsav-Logo.png": "/static/media/Azadi-Ka-Amrit-Mahotsav-Logo.06ccc369df603b18f2d0.png",
+    "static/media/dam.png": "/static/media/dam.da477464777291430e3d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.409560be.css.map": "/static/css/main.409560be.css.map",
+    "main.55edff78.js.map": "/static/js/main.55edff78.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409560be.css",
+    "static/js/main.55edff78.js"
+  ]
+}

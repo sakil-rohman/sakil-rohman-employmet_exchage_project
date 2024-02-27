@@ -1,0 +1,558 @@
+/* .b1 { border: 1px solid black; } */
+a{
+    text-decoration: none !important;
+}
+.main_them_color{
+    background-color: #06163A;
+}
+.main_them_text_color{
+    color: #202B8C;
+}
+.main_them_dark_color{
+    color: #a5c0cd;
+}
+.main_them_footer_color{
+    background-color: #132244;
+}
+.main_them_footer2_color{
+    background-color: #06163A;
+    color:#6996AC !important;
+}
+.menu-links{
+    color:#a5c0cd !important;
+
+}
+.menu-links:hover{
+    color:#FF3514 !important;
+}
+.logo_1{
+    width: 80px;
+    height: 85px;
+}
+.side_logo{
+    width: 110px;
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* margin: 15px 0; */
+    
+}
+.underline {
+    color: #ffffff;
+    position: relative;
+    /* text-align: center; */
+}
+  .underline:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+		  /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px; 
+
+
+       /** 
+       optional values below 
+       **/
+        
+        /* center - (optional) use with adjusting width   */
+        /* margin: 0 auto; */
+		  left: 0;
+        right: 0;
+		  width: 45%;
+		  background: #FF3514;
+		  
+		  /* optional animation */
+		  -o-transition:.5s;
+  		  -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+    }
+	 
+
+	 /* optional hover classes used with anmiation */
+	  .underline:hover:after {
+		  width: 55%;
+		  /* background: ; */
+    }
+.underline2 {
+    color: #ffffff;
+    position: relative;
+    /* text-align: center; */
+}
+  .underline2:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+		  /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px; 
+
+
+       /** 
+       optional values below 
+       **/
+        
+        /* center - (optional) use with adjusting width   */
+        /* margin: 0 auto; */
+		  left: 0;
+        right: 0;
+		  width: 30%;
+		  background: #FF3514;
+		  
+		  /* optional animation */
+		  -o-transition:.5s;
+  		  -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+    }
+	 
+
+	 /* optional hover classes used with anmiation */
+	  .underline2:hover:after {
+		  width: 37%;
+		  /* background: ; */
+    }
+.underline3 {
+    color: #ffffff;
+    position: relative;
+    /* text-align: center; */
+}
+  .underline3:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+		  /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px; 
+
+
+       /** 
+       optional values below 
+       **/
+        
+        /* center - (optional) use with adjusting width   */
+        /* margin: 0 auto; */
+		  left: 0;
+        right: 0;
+		  width: 40%;
+		  background: #FF3514;
+		  
+		  /* optional animation */
+		  -o-transition:.5s;
+  		  -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+    }
+	 
+
+	 /* optional hover classes used with anmiation */
+	  .underline3:hover:after {
+		  width: 50%;
+		  /* background: ; */
+    }
+    .underline_head {
+        color: #202b5d;
+        font-size: 30px;
+        font-weight: 600;
+        position: relative;
+        /* text-align: center; */
+    }
+  /* .underline_head:after {
+        position: absolute;
+        content: '';
+        height: 5px;		  
+        bottom: -8px;        
+		left: 0;
+        right: 0;
+        width: 40%;
+        background: #FF3514;
+		  
+		  
+		  -o-transition:.5s;
+  		  -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+    }
+	 
+
+	
+	  .underline_head:hover:after {
+		  width: 53%;
+		 
+    } */
+
+
+    /* Midcard css======= */
+    .midcard_text{
+        color: #202B8C;
+        font-size: 23px !important;
+        font-weight: 600 !important;       
+
+    }
+
+    .side_bar_right{
+        padding-left: 70px !important;
+    }
+    .side_bar_text{
+        font-size: 30px;
+        line-height: 1.2em;
+        color: #333;
+        text-transform: capitalize;
+        font-weight: 700;
+        margin-bottom: 25px;
+        margin-top: 60px;
+        border-color: #e5e5e5;
+        padding-bottom: 19px;
+    }
+    .side_bar_sub_text{
+        font-size: 17px;
+        font-weight: 400;
+        color: #667590;
+    }
+    .side_bar_bullet_color{
+        color:#FF3514
+    }
+    .text_title_head{
+        font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #202b5d;
+    text-transform: capitalize;
+    margin-top:30px;
+    padding-bottom: 10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+    }
+    .p_text{
+        font-size: 17px;
+        line-height: 28px;
+        color: #62718d;
+        font-weight: 400;
+    }
+    .p_text_bold{
+        font-size: 17px;
+        line-height: 28px;
+        color: #202b5d;
+        font-weight: 700;
+    }
+    .p_text_highlight{
+        font-size: 17px;
+        line-height: 28px;
+        color: #FF3514;
+        font-weight: 700;
+    }
+    .main_bullet_color{
+        color:#FF3514;
+        font-weight: 700;
+    }
+    .guideline_p{
+        padding-left:10%;
+        padding-right: 20px;
+    }
+
+
+    .side_border{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .img_size{
+        width: 155px !important;
+        margin-top: -75px !important;
+    }
+    .shadow_sm {
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .card_text_2{
+        font-size: 20px !important;
+        font-weight: 500 !important;
+        color: #667590 !important;
+    }
+    .main_color_bold{
+        color: #202b5d;
+        font-weight: 600;
+    }
+    .box_shadow{
+        box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    }
+
+    .card_footer_icon{
+        color: #3c487e;
+        font-size: 25px;
+    }
+    .contact_us_title{
+        font-size: 48px;
+        line-height: 1.2;
+    font-weight: 600;
+    color: #202b5d;
+    text-transform: capitalize;
+    margin-top:30px;
+    padding-bottom: 10px;
+    }
+    .table_1{
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+        margin-bottom: 80px !important;
+    }
+/* gallery css here  */
+.tags {
+	text-align: center;
+	padding: 20px 0px;
+	/* background-color: rgb(43, 92, 226); */
+}
+.tag {
+	outline: none;
+	border: none;
+	color: #eee;
+	margin: 0px 10px;
+	background-color: #132244;
+	cursor: pointer;
+}
+.tag:hover {
+	/* outline: none;
+	border: none;
+	color: #eee;
+	margin: 0px 10px; */
+	background-color: #FF3514;
+	/* cursor: pointer; */
+}
+.active {
+	font-weight: bold;
+	background-color: #FF3514;
+}
+.containerG {
+	width: 80%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 10px;
+}
+
+.imageG-card {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+}
+
+.imageG {
+	width: 100%;
+}
+
+
+.App {
+    background-color: white;
+  }
+  
+  .Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100vw; */
+    /* height: 100vh; */
+  }
+  
+  .Auth-form {
+    width: 420px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 55px;
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: #202b5d;
+    font-weight: 800;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #202b5d;
+  }
+  .button_submit{
+      background-color: #FF3514 !important;
+    
+  }
+  .marq{
+    border-left: 5px solid #F55D5D;
+    /* border: 1px solid red; */
+    height: 100px;
+    
+    }
+    .marquee {
+        white-space: nowrap;
+        overflow: hidden;
+        box-sizing: border-box;
+        width: 100%;
+        border: 1px solid black;
+        padding: 10px;
+      }
+      
+      .text {
+        display: inline-block;
+        animation: marquee 5s linear infinite;
+      }
+      
+      @keyframes marquee {
+        0% {
+          transform: translateY(100%);
+        }
+        100% {
+          transform: translateY(-100%);
+        }
+      }
+      
+      .marq:hover {
+        animation-play-state: paused;
+      }
+
+
+
+.side_login{
+
+    height: auto;
+    border: #85bbce solid 1px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px 0 0 0;
+    position: relative;
+}
+.login_tag{
+    position: absolute;
+    top: -17px;
+    background: white;
+    padding: 0 10px;
+}
+/* CSS */
+.button-65 {
+    appearance: none;
+    backface-visibility: hidden;
+    background-color: #151560;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    height: 50px;
+    letter-spacing: normal;
+    line-height: 1.5;
+    outline: none;
+    overflow: hidden;
+    /* padding: 14px 30px; */
+    position: relative;
+    /* text-align: center; */
+    text-decoration: none;
+    transform: translate3d(0, 0, 0);
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 100%;
+  }
+  
+  .button-65:hover {
+    background-color: #F55D5D;
+    box-shadow: rgba(0, 0, 0, .05) 0 5px 30px, rgba(0, 0, 0, .05) 0 1px 4px;
+    opacity: 1;
+    transform: translateY(0);
+    transition-duration: .35s;
+  }
+  
+  .button-65:hover:after {
+    opacity: .5;
+  }
+  
+  .button-65:active {
+    box-shadow: rgba(0, 0, 0, .1) 0 3px 6px 0, rgba(0, 0, 0, .1) 0 0 10px 0, rgba(0, 0, 0, .1) 0 1px 4px -1px;
+    transform: translateY(2px);
+    transition-duration: .35s;
+  }
+  
+  .button-65:active:after {
+    opacity: 1;
+  }
+  
+  /* @media (min-width: 768px) {
+    .button-65 {
+      padding: 14px 22px;
+      width: 176px;
+    }
+  } */
+  .font_size20{
+    font-size: 20px;
+  }
+  .pragraph_text{
+    padding-left: 50px;
+  }
+  .sub_head{
+    font-size: 18px;
+    font-weight: 600;
+    color: #f55d5d;
+  }
+ 
+  .w_90{
+    width: 90%;
+  }
+
+
+
+
+  .card_footer{
+    background: #ff3333  !important;
+    width: 108% !important;
+    margin-left: -4% !important;
+  }
+
+  .underline_main {
+    color: #151560;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    /* text-align: center; */
+}
+  .underline_main:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+		  /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px; 
+
+
+       
+		  left: 0;
+        right: 0;
+		  width: 10%;
+		  background: #FF3514;
+		  
+		  /* optional animation */
+		  -o-transition:.5s;
+  		  -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+    }
+	 
+
+	 /* optional hover classes used with anmiation */
+	  .underline_main:hover:after {
+		  width: 40%;
+		 
+    }
